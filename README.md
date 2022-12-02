@@ -8,4 +8,3 @@ Frist Go to the the
 
  I just tweak some Header Text Color, ( can change in style.css )
  
-# gpt3-writer-starter
